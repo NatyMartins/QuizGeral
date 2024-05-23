@@ -23,7 +23,7 @@ import java.io.*;
                 String respostaUsuario = "";
                 System.out.println("=====================================================");
                 Questao questao1 = new Questao();
-                questao1.pergunta = "Qual é a capital do Brasil?";
+                questao1.pergunta = "1-Qual é a capital do Brasil?";
                 questao1.opcaoA = "A - Rio de Janeiro";
                 questao1.opcaoB = "B - Brasília";
                 questao1.opcaoC = "C - São Paulo";
@@ -37,7 +37,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao2 = new Questao();
-                questao2.pergunta = "Quem descobriu o Brasil?";
+                questao2.pergunta = "2-Quem descobriu o Brasil?";
                 questao2.opcaoA = "A - Miguel de Cervantes";
                 questao2.opcaoB = "B - Machado de Assis";
                 questao2.opcaoC = "C - Pedro Álvares de Cabral";
@@ -51,7 +51,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao3 = new Questao();
-                questao3.pergunta = "Qual é o maior planeta do Sistema Solar?";
+                questao3.pergunta = "3-Qual é o maior planeta do Sistema Solar?";
                 questao3.opcaoA = "A - Terra";
                 questao3.opcaoB = "B - Júpiter";
                 questao3.opcaoC = "C - Saturno";
@@ -65,7 +65,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao4 = new Questao();
-                questao4.pergunta = "Qual é o satélite natural da Terra?";
+                questao4.pergunta = "4-Qual é o satélite natural da Terra?";
                 questao4.opcaoA = "A - Sol";
                 questao4.opcaoB = "B - Lua";
                 questao4.opcaoC = "C - Marte";
@@ -79,7 +79,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao5 = new Questao();
-                questao5.pergunta = "Do que é formado a litosfera?";
+                questao5.pergunta = "5-Do que é formado a litosfera?";
                 questao5.opcaoA = "A - Rios e Mares";
                 questao5.opcaoB = "B - Solos, Rochas e Minerais";
                 questao5.opcaoC = "C - Fauna e Flora";
@@ -93,7 +93,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao6 = new Questao();
-                questao6.pergunta = "Em qual continente se localiza o Egito?";
+                questao6.pergunta = "6-Em qual continente se localiza o Egito?";
                 questao6.opcaoA = "A - África";
                 questao6.opcaoB = "B - Oceania";
                 questao6.opcaoC = "C - Europa";
@@ -107,7 +107,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao7 = new Questao();
-                questao7.pergunta = "Qual oceano banha o Brasil?";
+                questao7.pergunta = "7-Qual oceano banha o Brasil?";
                 questao7.opcaoA = "A - Índico";
                 questao7.opcaoB = "B - Atlântico";
                 questao7.opcaoC = "C - Pacífico";
@@ -121,7 +121,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao8 = new Questao();
-                questao8.pergunta = "Quem nasce em Pindamonhangaba é o que?";
+                questao8.pergunta = "8-Quem nasce em Pindamonhangaba é o que?";
                 questao8.opcaoA = "A - Pindamonhangabeiro";
                 questao8.opcaoB = "B - Pindamonhangabo";
                 questao8.opcaoC = "C - Pindamonhangabense";
@@ -135,7 +135,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao9 = new Questao();
-                questao9.pergunta = "Qual o bioma predominante no Estado de Goiás?";
+                questao9.pergunta = "9-Qual o bioma predominante no Estado de Goiás?";
                 questao9.opcaoA = "A - Pantanal";
                 questao9.opcaoB = "B - Cerrado";
                 questao9.opcaoC = "C - Caatinga";
@@ -149,7 +149,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao10 = new Questao();
-                questao10.pergunta = "Qual o nome do atual Presidente dos EUA?";
+                questao10.pergunta = "10-Qual o nome do atual Presidente dos EUA?";
                 questao10.opcaoA = "A - Barack Obama";
                 questao10.opcaoB = "B - Joe Biden";
                 questao10.opcaoC = "C - Hillary Clinton";
@@ -163,7 +163,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao11 = new Questao();
-                questao11.pergunta = "Qual o maior estado brasileiro?";
+                questao11.pergunta = "11-Qual o maior estado brasileiro?";
                 questao11.opcaoA = "A - Goiás";
                 questao11.opcaoB = "B - Pará";
                 questao11.opcaoC = "C - Amazonas";
@@ -177,7 +177,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao12 = new Questao();
-                questao12.pergunta = "Qual o menor estado brasileiro?";
+                questao12.pergunta = "12-Qual o menor estado brasileiro?";
                 questao12.opcaoA = "A - Sergipe";
                 questao12.opcaoB = "B - Acre";
                 questao12.opcaoC = "C - Goiás";
@@ -191,7 +191,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao13 = new Questao();
-                questao13.pergunta = "Quantos países compõem a America Latina?";
+                questao13.pergunta = "13-Quantos países compõem a America Latina?";
                 questao13.opcaoA = "A - 32";
                 questao13.opcaoB = "B - 15";
                 questao13.opcaoC = "C - 41";
@@ -205,7 +205,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao14 = new Questao();
-                questao14.pergunta = "Qual o maior rio do mundo?";
+                questao14.pergunta = "14-Qual o maior rio do mundo?";
                 questao14.opcaoA = "A - Rio Congo";
                 questao14.opcaoB = "B - Rio Paraná";
                 questao14.opcaoC = "C - Rio Nilo";
@@ -219,7 +219,7 @@ import java.io.*;
                 System.out.println("=====================================================");
 
                 Questao questao15 = new Questao();
-                questao15.pergunta = "Qual o pico mais alto do Brasil?";
+                questao15.pergunta = "15-Qual o pico mais alto do Brasil?";
                 questao15.opcaoA = "A - Monte Roraima";
                 questao15.opcaoB = "B - Pedra da Mina";
                 questao15.opcaoC = "C - Pico da Neblina";
